@@ -1,9 +1,7 @@
 # Privacy_policy
 
-PRIVACY POLICY MODEL FOR MOBILE APPLICATIONS
+This privacy policy governs your use of the software application Word_es (“Application”) for mobile devices that was created by mhdevapps.
 
-This privacy policy governs your use of the software application App Name (“Application”) for mobile devices that was created by Developer Company Name. The Application is Basic description of the app (features, functionality and content) 
- 
 What information does the Application obtain and how is it used?
 
 User Provided Information 
